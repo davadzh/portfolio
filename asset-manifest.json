@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da6b8fc3.chunk.css",
+    "main.js": "/static/js/main.457004f3.chunk.js",
+    "main.js.map": "/static/js/main.457004f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86d9cac7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86d9cac7.js.map",
+    "static/css/2.cf0b44da.chunk.css": "/static/css/2.cf0b44da.chunk.css",
+    "static/js/2.7d4495f9.chunk.js": "/static/js/2.7d4495f9.chunk.js",
+    "static/js/2.7d4495f9.chunk.js.map": "/static/js/2.7d4495f9.chunk.js.map",
+    "static/js/3.e6c5fa4d.chunk.js": "/static/js/3.e6c5fa4d.chunk.js",
+    "static/js/3.e6c5fa4d.chunk.js.map": "/static/js/3.e6c5fa4d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cf0b44da.chunk.css.map": "/static/css/2.cf0b44da.chunk.css.map",
+    "static/css/main.da6b8fc3.chunk.css.map": "/static/css/main.da6b8fc3.chunk.css.map",
+    "static/js/2.7d4495f9.chunk.js.LICENSE.txt": "/static/js/2.7d4495f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/background_mobile.79b9cbc3.png",
+    "static/media/ava2.20aa72dc.png": "/static/media/ava2.20aa72dc.png",
+    "static/media/avatar.e8057afd.png": "/static/media/avatar.e8057afd.png",
+    "static/media/github.c5b40c07.svg": "/static/media/github.c5b40c07.svg",
+    "static/media/instagram.5a55c83f.svg": "/static/media/instagram.5a55c83f.svg",
+    "static/media/kupikomment.c5b814ad.png": "/static/media/kupikomment.c5b814ad.png",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/telegram.9163db08.svg": "/static/media/telegram.9163db08.svg",
+    "static/media/todo-app.2ed0098c.png": "/static/media/todo-app.2ed0098c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d9cac7.js",
+    "static/css/2.cf0b44da.chunk.css",
+    "static/js/2.7d4495f9.chunk.js",
+    "static/css/main.da6b8fc3.chunk.css",
+    "static/js/main.457004f3.chunk.js"
+  ]
+}
